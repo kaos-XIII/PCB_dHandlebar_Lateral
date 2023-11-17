@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QREZYJKX
 
 [Document2]
-DocumentPath=PCB_dHandlebar_Lateral.PcbDoc
+DocumentPath=PCB_dHandlebar_Lateral_Left.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -79,6 +79,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TQXWSMTS
+
+[Document3]
+DocumentPath=PCB_dHandlebar_Lateral_Right.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BJKTMAGN
 
 [Configuration1]
 Name=Sources
