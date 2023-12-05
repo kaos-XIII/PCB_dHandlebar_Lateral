@@ -1,12 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [PCB_dHandlebar_Lateral.PrjPcb]
-   Generated File[PCB_dHandlebar_Lateral_Left.TXT]
-   Generated File[PCB_dHandlebar_Lateral_Left.LDP]
-   Generated File[PCB_dHandlebar_Lateral_Left.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_dHandlebar_Lateral.PrjPcb]
+   Generated File[PCB_dHandlebar_Lateral_Left.GTO]
+   Generated File[PCB_dHandlebar_Lateral_Left.GTP]
+   Generated File[PCB_dHandlebar_Lateral_Left.GTS]
+   Generated File[PCB_dHandlebar_Lateral_Left.GTL]
+   Generated File[PCB_dHandlebar_Lateral_Left.GBL]
+   Generated File[PCB_dHandlebar_Lateral_Left.GBS]
+   Generated File[PCB_dHandlebar_Lateral_Left.GBP]
+   Generated File[PCB_dHandlebar_Lateral_Left.GBO]
+   Generated File[PCB_dHandlebar_Lateral_Left.GKO]
+   Generated File[PCB_dHandlebar_Lateral_Left.RUL]
+   Generated File[PCB_dHandlebar_Lateral_Left.EXTREP]
+   Generated File[PCB_dHandlebar_Lateral_Left.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 11:37:33 On 05/12/2023
+Finished Output Generation At 15:30:01 On 05/12/2023
