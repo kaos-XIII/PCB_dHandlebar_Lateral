@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_dHandlebar_Lateral.PrjPcb]
+   Generated File[PCB_dHandlebar_Lateral_Left.TXT]
+   Generated File[PCB_dHandlebar_Lateral_Left.LDP]
+   Generated File[PCB_dHandlebar_Lateral_Left.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:37:33 On 05/12/2023
