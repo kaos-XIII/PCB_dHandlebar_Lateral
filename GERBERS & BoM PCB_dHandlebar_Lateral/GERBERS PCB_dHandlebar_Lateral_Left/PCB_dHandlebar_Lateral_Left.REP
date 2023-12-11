@@ -2,8 +2,96 @@
 FileName = PCB_dHandlebar_Lateral_Left.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : PCB_dHandlebar_Lateral_Left.GTL
+Generating : Keep-Out Layer
+      File : PCB_dHandlebar_Lateral_Left.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_dHandlebar_Lateral_Left.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_dHandlebar_Lateral_Left.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_dHandlebar_Lateral_Left.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_dHandlebar_Lateral_Left.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,9 +99,32 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D12
-    D13
-    D14
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_dHandlebar_Lateral_Left.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_dHandlebar_Lateral_Left.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -48,20 +159,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB_dHandlebar_Lateral_Left.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB_dHandlebar_Lateral_Left.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : PCB_dHandlebar_Lateral_Left.GTL
 
     Adding Layer      : Top Layer
 
@@ -69,107 +168,8 @@ Generating : Top Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB_dHandlebar_Lateral_Left.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_dHandlebar_Lateral_Left.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D47
-    D48
-    D49
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_dHandlebar_Lateral_Left.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_dHandlebar_Lateral_Left.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_dHandlebar_Lateral_Left.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
+    D12
+    D13
+    D14
 *************************************************************
 
