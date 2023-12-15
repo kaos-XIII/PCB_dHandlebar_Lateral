@@ -97,66 +97,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQGPBVSV
 
-[GeneratedDocument1]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=GERBERS & BoM PCB_dHandlebar_Lateral\PCB_dHandlebar_Lateral_Left.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
